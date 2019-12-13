@@ -1,0 +1,12 @@
+release/cheesepizza.o
+release/customer.o
+release/deliveryboy.o
+release/main.o
+release/order.o
+release/pepperonipizza.o
+release/person.o
+release/pizza.o
+release/pizzadelivery.o
+release/pizzafactory.o
+release/qrc_qml.o
+release/moc_pizzadelivery.o

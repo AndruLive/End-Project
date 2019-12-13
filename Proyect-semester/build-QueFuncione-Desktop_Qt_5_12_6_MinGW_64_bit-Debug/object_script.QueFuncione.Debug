@@ -1,0 +1,12 @@
+debug/cheesepizza.o
+debug/customer.o
+debug/deliveryboy.o
+debug/main.o
+debug/order.o
+debug/pepperonipizza.o
+debug/person.o
+debug/pizza.o
+debug/pizzadelivery.o
+debug/pizzafactory.o
+debug/qrc_qml.o
+debug/moc_pizzadelivery.o
